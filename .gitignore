@@ -1,0 +1,33 @@
+# Plan (internal)
+PLAN.md
+
+# Build
+server/build/
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db

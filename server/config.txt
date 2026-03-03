@@ -1,0 +1,3 @@
+tree=Blue
+sky=Gray
+water=Green
