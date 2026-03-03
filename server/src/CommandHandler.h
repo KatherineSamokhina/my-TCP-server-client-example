@@ -17,7 +17,7 @@ public:
 private:
     std::string HandleGet(const std::string& key);
     std::string HandleSet(const std::string& key, const std::string& value);
-    std::string FormatStats(const std::string& key, const Storage::KeyStats& stats);
+    std::string FormatStats(const std::string& line, const Storage::KeyStats& stats);
 
     Storage& aStorage;
     Persistence& aPersistence;
