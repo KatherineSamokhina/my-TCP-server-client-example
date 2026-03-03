@@ -4,7 +4,6 @@
 #include <unordered_map>
 #include <shared_mutex>
 #include <optional>
-#include <utility>
 
 namespace gaijin
 {

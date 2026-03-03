@@ -1,7 +1,6 @@
 #include "Server.h"
 #include "ServerImpl.h"
 #include <boost/asio.hpp>
-#include <boost/asio/signal_set.hpp>
 #include <csignal>
 #include <iostream>
 

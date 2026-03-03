@@ -3,10 +3,8 @@
 #include "Server.h"
 #include "ConnectionHandler.h"
 #include <boost/asio.hpp>
-#include <boost/asio/signal_set.hpp>
 #include <atomic>
 #include <chrono>
-#include <csignal>
 #include <fstream>
 #include <iostream>
 #include <memory>
